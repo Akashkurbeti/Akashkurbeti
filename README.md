@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Akashkurbeti&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Akashkurbeti&icon=5&color=6)](https://visitcount.itsvg.in)
+[[![](https://komarev.com/ghpvc/?username=Akashkurbeti&icon=5&color=6)](https://visitcount.itsvg.in)](https://komarev.com/ghpvc/?username=Akashkurbeti&label=PROFILE+VIEWS&color=blue&style=flat-square)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
