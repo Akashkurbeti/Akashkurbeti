@@ -1,4 +1,4 @@
-# Hey, I'm Akash Kurbetti 👋
+# Hey, I'm Akash Kurbeti 👋
 
 ### 💻 Computer Science Engineering Student | Full-Stack Developer | AI/ML Enthusiast
 
